@@ -1,0 +1,557 @@
+<!doctype html>
+<html>
+<head>
+<title> VISA COMPANY </title>
+
+<style>
+h1{
+font-size:50px;
+text-align:center;
+color:red;
+}
+</style>
+
+<script>
+alert("Welcome to my website");
+prompt("Enter your age");
+</script>
+</head>
+
+<body>
+<h1> This is h1 tag </h1>
+<h2> This is h2 tag </h2>
+<h3> This is h3 tag </h3>
+<h4> This is h4 tag </h4>
+<h5> This is h5 tag </h5>
+<h6> This is h6 tag </h6>
+
+<p>
+Html stands for hyper text markup language.  <br>
+Html is used to create web pages and web application.<br>
+Html is widely used language on the webhr.  <br>
+We can create a static website by html only.</p>
+</body>
+</html>
+................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+<Title> VISA COMPANY</Title>
+</head>
+<p> in <b> html</b>
+all<i> tags </i> must be<u>enclosed with<> </u> these bracket.<br>
+<span>style="color:Tomato;font-size:30px"</span>
+tags that present in HTML Perform differtent Task.
+</p>
+</body>
+</html>
+
+....................................................................................................................
+<doctype HTML>
+<HTML>
+<head>
+<Title> VISA COMPANY</Title>
+<style>
+<div{
+hight:60px;
+width:500px;
+background-color:sky blue;
+}
+</style>
+</head>
+<body>
+<div>
+I Am Dimple Sharma,We Deal with OverWorld Visa,"How Can I help U"
+</div>
+</body>
+</html>
+...............................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+<Title> VISA COMPANY</Title>
+<style>
+</style>
+</head>
+<body>
+<marquee direction="right">
+<h3>VISA COMPANY</h3>
+</marquee>
+</body>
+</html>
+
+...........................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<details>Hello!!! I am Dimple Sharma </details>
+</body>
+</html>
+
+.......................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol>
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+...........................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol start="10">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+..............................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol Style="list-style-type:upper-alph">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+
+.............................................................................................................
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol Style="list-style-type:lower-roman">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+....................................................................................................................
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol Style="list-style-type:lower-roman">
+<ol Style="list-style-type:upper-roman">
+<ol Style="list-style-type:lower-alpha">
+<ol Style="list-style-type:upper-alpha">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+
+.......................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ol Style="list-style-type:lower-roman"start="10">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ol>
+</body>
+</html>
+.....................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ul>
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ul>
+</body>
+</html>
+
+........................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ul Style="list-style-type:square">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ul>
+</body>
+</html>
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ul Style="list-style-type:circle">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ul>
+</body>
+</html>
+
+.........................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<ul Style="list-style-type:triangal">
+<li>Apple</li>
+<li>MI</li>
+<li>vivo</li>
+<li>samsung</li>
+</ul>
+</body>
+</html>
+
+..........................................................................................................................
+
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</body>
+</html>
+
+.......................................................................................................................................
+<doctype HTML>
+<HTML>
+<head>
+</head>
+<body>
+<audio controls autoplay muted>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+</html>
+
+................................................................................................................................
+
+<!DOCTYPE>
+<html>  
+<body>  
+<table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Dimple</td><td>Sharma</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Mystery</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Tushar</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>
+</html>  
+
+.....................................................................................................................................................................
+
+<!DOCTYPE>
+<html>  
+<body>  
+<table border="2">  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>
+</html>  
+.................................................................
+
+<!DOCTYPE>
+<html>  
+<head>
+<style>  
+table, th, td {  
+    border: 1px,Color:red;  
+}  
+</style>  
+</head>
+<body>  
+<table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>
+</html>
+
+..............................................
+<!DOCTYPE>
+<html>  
+<head>
+<style>  
+table, th, td {  
+    border: 1px solid black;  
+    border-collapse: collapse;  
+}  
+</style>  
+</head>
+<body>  
+<table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>
+</html>  
+......................................................
+
+<!DOCTYPE>
+<html>  
+<head>
+<style>  
+table, th, td {  
+    border: 1px ; 
+    dotted red ; 
+    border-collapse: collapse;  
+}  
+th, td {
+    padding: 10px;
+}
+</style>  
+</head>
+<body>  
+<table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>
+</html>  
+
+...........................................................................
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>table</title>  
+    <style>  
+        table{  
+            border-collapse: collapse; 
+ dotted red:
+            width: 90%;   
+        }  
+    th,td{  
+        border: 2px Solid Green;   
+        padding: 15px;  
+    }  
+               
+    </style>  
+  </head>  
+<body>  
+  <table>  
+    <tr>  
+        <th>1 header</th>  
+        <th>1 header</th>  
+        <th>1 header</th>  
+    </tr>  
+    <tr>  
+        <td>1data</td>  
+        <td>1data</td>  
+        <td>1data</td>  
+    </tr>  
+    <tr>  
+        <td>2 data</td>  
+        <td>2 data</td>  
+        <td>2 data</td>  
+    </tr>  
+    <tr>  
+        <td>3 data</td>  
+        <td>3 data</td>  
+        <td>3 data</td>  
+    </tr>  
+</table>  
+</body>  
+</html>  
+.....................................................
+
+<!DOCTYPE>
+<html>  
+<head>
+<style>  
+table, th, td {  
+    border: 1px solid black;  
+    border-collapse: collapse;  
+}  
+th, td {  
+    padding: 10px;  
+}  
+table#alter tr:nth-child(even) {  
+    background-color: #eee;  
+}  
+table#alter tr:nth-child(odd) {  
+    background-color: #fff;  
+}  
+table#alter th {  
+    color: white;  
+    background-color: gray;  
+}  
+</style>  
+</head>
+<body>  
+<table id="alter">  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>   
+</body>
+</html>  
+
+.............................................................................................................
+
+<Doctype>
+<Html>
+<Head>
+<Style>
+table,td{
+border:2px;
+dotted red:
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<th>first_name</th>
+<th>last_name</th>
+<tr><td>Dimple</tr></td>
+<tr><td>Sharma</tr></td>
+<tr><td>Isha</tr></td>
+<tr><td>Savitri</tr></td>
+<tr><td>Sharma</tr></td>
+</table>
+</body>
+</html>  
+
+......................................................................................................................
+<!DOCTYPE>
+<html>  
+<body>
+<h2>HTML img tag is used to display image on the web page. HTML img tag is an empty tag that contains attributes only, closing tags are not used in HTML image element.</h2>  
+<h2>HTML Image Example</h2>  
+<img src="good-morning.jpg" alt="Good Morning Friends"/> 
+</body>  
+</html>  
+
+................................................................................................................................
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image tag</title>
+</head>
+<body>
+<h2>You have learnt about how to insert an image in your web page, now if we want to give some height and width to display image according to our requirement, then we can set it with height and width attributes of image.</h2>
+<h2>HTML image example with height and width</h2>
+<img src="https://static.javatpoint.com/htmlpages/images/animal.jpg" height="180" width="300" alt="animal image">
+</body>
+</html>
+
+....................................................................................................................
+
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Image tag</title>
+  </head>
+<body>
+	<h2>Use image as a link</h2>
+<marquee Direction="left">
+   <p>Click on the image to know about robotics</p>
+  <a href="https://www.javatpoint.com/what-is-robotics"><img src="https://static.javatpoint.com/htmlpages/images/robot.jpg" height="100" width="100"></a>
+  </body>
+</marquee>
+</html>
+
+.............................................................................................................................
+<!Doctype HTML>
+<HTML>
+<HEAD>
+<title>table</title>
+</HEAD>
+<BODY>
+<table style="border-collapse:collaps;width:300px;float:right;border:2px;color:solid red;">
+<caption>Employee Record</caption>
+<tr><th>Name</th><th>Age</th><th>contact</th></tr>
+<tr><td>Dimple</td><td>22</td><td>1234567890</td></tr>
+<tr><td>Abhi</td><td>20</td><td>1234567899</td></tr>
+<tr><td>Rahul Sir</td><td>24</td><td>9876543210</td></tr>
+</table>
+</BODY>
+</HTML>
+
+......................................................................................................................................
+<!Doctype HTML>
+<HTML>
+<BODY>
+<a href="https://www.facebook.com/">visit facebook</a>
+/BODY>
+</HTML>
+
+...................................................................................................................
+<!Doctype HTML>
+<HTML>
+<BODY>
+<a href="https://www.facebook.com/"><img src="face.png"></a>
+/BODY>
+</HTML>
+..............................................................................................................
+

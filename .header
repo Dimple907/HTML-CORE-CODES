@@ -1,0 +1,19 @@
+<!doctype html>
+<HTML>
+<HEAD>
+<syle>
+.header{
+  padding: 60px;
+  text-align: center;
+  background: DarkSalmon;
+  color: #87CEEB;
+  font-size: 30px;
+}
+</HEAD>
+<body>
+<div class="header">
+  <h1>Header</h1>
+  <p>My header</p>
+</div>
+</body>
+</HTML>
